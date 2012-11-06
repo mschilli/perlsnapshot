@@ -1,0 +1,3 @@
+[% PROCESS header.tmpl %]
+The second blog entry comes right after.
+[% PROCESS footer.tmpl %]
