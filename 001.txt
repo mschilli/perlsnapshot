@@ -1,4 +1,4 @@
 [% PROCESS header.tmpl %]
 This is the
-first blog entry. Really.
+first blog entry. Really. Some Text.
 [% PROCESS footer.tmpl %]
