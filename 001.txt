@@ -1,4 +1,3 @@
 [% PROCESS header.tmpl %]
-This is the
-first blog entry. Really. Some Text. And more. Blech. Oof. Meck. Rap. Poof. Wam.
+Hallo liebe Leser des Perl-Snapshots!
 [% PROCESS footer.tmpl %]
